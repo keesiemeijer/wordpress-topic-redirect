@@ -14,7 +14,7 @@ This script is used in the following sections of the support forums.
 
 ## Installation
 
-For Firefox install Install [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/).  
+For Firefox install [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/).  
 For Chrome install [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 
 Click this link to [Download and install this redirect user script](https://github.com/keesiemeijer/wordpress-topic-redirect/raw/master/wp-topic-redirect.user.js)
