@@ -1,8 +1,8 @@
 # WordPress Topic Redirect
 
-A Greasemonkey user script for WordPress support forums moderators.
+A Greasemonkey user script for WordPress support forum moderators.
 
-Archived, spam and pending topics are normally not displayed outside their own views. If you add the query string `?view=all` to the url of a support page they are displayed if you're a moderator. If you go to a support page without this query string this script will redirect you to the same page with the query string attached.
+Archived, spam and pending topics are normally not displayed outside of their own views. If you add the query string `?view=all` to the url of a support page they are displayed if you're a moderator. If you go to a support page without this query string this script will redirect you to the same page with the query string attached.
 
 This script is used in the following sections of the support forums.
 
