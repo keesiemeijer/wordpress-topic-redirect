@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name        WordPress topic redirect
+// @name        WordPress Topic Redirect
 // @namespace   WordPress_topic_redirect
 // @description Forces https, adds view=all to topic urls and redirects if needed in the WordPress support forums.
-// @version     1.1.0
+// @version     1.0.0
 // @grant       none
 // @run-at      document-start
 // @include    *://*wordpress.org/support/topic/*
